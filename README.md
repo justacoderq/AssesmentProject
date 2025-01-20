@@ -2,6 +2,9 @@
 Project Description:
 The "Automatic Menu-Based MCQ Test Simulation" is a comprehensive software application designed to facilitate the creation, administration, and management of multiple-choice question (MCQ) tests. This interactive system serves both students and teachers by offering features tailored to their needs.
 
+![image](https://github.com/user-attachments/assets/8183b29e-dc3c-455c-b97e-721748380899)
+
+
 Key Features:
 
 1. **User Modes:**
@@ -24,3 +27,4 @@ Key Features:
    - Assign tests to specific classes or students.
 
 This project aims to enhance the learning and assessment process by providing an automated and user-friendly platform for both students and teachers. It streamlines the creation and management of MCQ tests while offering valuable insights into student performance, ultimately improving the overall educational experience.
+
